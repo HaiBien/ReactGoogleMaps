@@ -1,0 +1,56 @@
+{
+  "name": "props",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@ant-design/icons": "^4.6.2",
+    "@fortawesome/fontawesome-free": "^5.15.3",
+    "@ramonak/react-excel": "^1.0.1",
+    "@react-google-maps/api": "^2.1.0",
+    "@testing-library/jest-dom": "^4.2.4",
+    "@testing-library/react": "^9.5.0",
+    "@testing-library/user-event": "^7.2.1",
+    "antd": "^4.15.6",
+    "docgen": "0.0.1",
+    "docxtemplater": "^3.21.1",
+    "excel4node": "^1.7.2",
+    "file-saver": "^2.0.5",
+    "font-awesome": "^4.7.0",
+    "node-sass": "^4.0.0",
+    "nodemon": "^2.0.7",
+    "pizzip": "^3.0.6",
+    "react": "^16.13.1",
+    "react-csv": "^2.0.3",
+    "react-data-export": "^0.6.0",
+    "react-docgen": "^5.3.1",
+    "react-dom": "^16.13.1",
+    "react-google-maps": "^9.4.5",
+    "react-router-dom": "^5.2.0",
+    "react-scripts": "3.4.1",
+    "sass": "^1.34.0",
+    "sass-module-importer": "^1.4.0",
+    "sheetjs": "^2.0.0"
+  },
+  "scripts": {
+    "start": "set PORT=4002 && react-scripts start",
+    "nodemon": "set PORT=4002 && react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}

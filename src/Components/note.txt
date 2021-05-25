@@ -1,0 +1,23 @@
+
+import GoogleMapReact from 'google-map-react';
+
+
+
+      <GoogleMapReact
+        bootstrapURLKeys={{ key: GOOGLE_API_KEY }}
+        defaultCenter={{ lat: 19.942883067405628, lng: 105.59371472442866 }}
+        defaultZoom={10}
+      >
+      </GoogleMapReact>
+
+
+              <InfoWindow
+
+                // onCloseClick={() => props.closeInfo()}
+                position={{
+                  lat: 19.942883067405628,
+                  lng: 105.59371472442866,
+                }}
+              >
+                <div>le văn hải biên</div>
+              </InfoWindow>
