@@ -7,17 +7,18 @@ import {PlayCircleOutlined} from '@ant-design/icons'
 function WardComponent(...props) {
 
     return (
-        <div className='ward-cp site-card-border-less-wrapper'>
-            <Card bordered={true}>
-                {WardType && WardType.map((item, key) => {
-                    return (
-                        <p key={key}>
-                            <input type='checkbox'/> <PlayCircleOutlined/> {item.name}
-                        </p>
-                    )
-                })}
-            </Card>
-        </div>
+        <></>
+        // <div className='ward-cp site-card-border-less-wrapper'>
+        //     <Card bordered={true}>
+        //         {WardType && WardType.map((item, key) => {
+        //             return (
+        //                 <p key={key}>
+        //                     <input type='checkbox'/> {item.name}
+        //                 </p>
+        //             )
+        //         })}
+        //     </Card>
+        // </div>
     );
 }
 

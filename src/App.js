@@ -12,7 +12,7 @@ function App() {
       {/*<MapDashboard/>*/}
       {/*<Func/>*/}
       <Map />
-      <Ward />
+      {/*<Ward />*/}
     </div>
   );
 }
