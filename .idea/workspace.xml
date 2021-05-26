@@ -11,18 +11,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="87419e4f-cb0e-4fe6-a75a-b34780db2d7f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Components/icon/8713713471601140165.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/icon/Home.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/icon/Home_icon.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/icon/Plus.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/icon/Untitled-2.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/icon/nha-2.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Components/icon/nha.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Services/map.service.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Components/Maps/MapConponent.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Maps/MapConponent.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/Maps/MapConstants.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Maps/MapConstants.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Components/Maps/WardComponent.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Components/Maps/WardComponent.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,19 +34,19 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/src/Components/Maps/MapConponent.js" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/src/Components/Maps/InfoWindowComponent.js" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/src/Components/Maps/MapConstants.js" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/src/Components/Test/func.js" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/src/Components/Maps/WardComponent.js" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/src/Components/Test/MapDashboard.js" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/src/Components/Test/FileTest.js" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/src/Components/Test/View.js" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/src/App.js" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/src/Components/Report/ReportOK.js" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/public/index.html" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/Components/Report/report.js" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/Components/Report/ReportOK.js" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/Components/Test/View.js" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/src/Components/Report/generateDocx.js" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/Components/Maps/InfoWindowComponent.js" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/Components/Maps/MapConponent.js" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/public/index.html" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/Components/Test/FileTest.js" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/Components/Test/MapDashboard.js" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/Components/Test/func.js" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/App.js" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/Components/Maps/MapConstants.js" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/Components/Maps/WardComponent.js" root0="SKIP_INSPECTION" />
   </component>
   <component name="ProjectId" id="1nNJaZkAKwvhnbWq45c6RyHDWfI" />
   <component name="ProjectLevelVcsManager">
@@ -68,7 +61,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/Components/icon" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Project-BTS/qlbts-frontend" />
     <property name="list.type.of.created.stylesheet" value="SCSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -155,6 +148,7 @@
       <workItem from="1621924621382" duration="9232000" />
       <workItem from="1621934166540" duration="3790000" />
       <workItem from="1621946653702" duration="8910000" />
+      <workItem from="1622028138311" duration="2132000" />
     </task>
     <task id="LOCAL-00001" summary="ReactGoogleMaps">
       <created>1621935162825</created>
@@ -194,26 +188,26 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1617358875070" />
-    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1621925600356">
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1622028885582">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1621925600356" />
-    <state width="1493" height="154" key="GridCell.Tab.0.bottom" timestamp="1621946925499">
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1622028885582" />
+    <state width="1493" height="2" key="GridCell.Tab.0.bottom" timestamp="1622029864294">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="154" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1621946925499" />
-    <state width="1493" height="154" key="GridCell.Tab.0.center" timestamp="1621946925499">
+    <state width="1493" height="2" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1622029864294" />
+    <state width="1493" height="2" key="GridCell.Tab.0.center" timestamp="1622029864294">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="154" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1621946925499" />
-    <state width="1493" height="154" key="GridCell.Tab.0.left" timestamp="1621946925499">
+    <state width="1493" height="2" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1622029864294" />
+    <state width="1493" height="2" key="GridCell.Tab.0.left" timestamp="1622029864294">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="154" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1621946925499" />
-    <state width="1493" height="154" key="GridCell.Tab.0.right" timestamp="1621946925499">
+    <state width="1493" height="2" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1622029864294" />
+    <state width="1493" height="2" key="GridCell.Tab.0.right" timestamp="1622029864294">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="154" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1621946925499" />
+    <state width="1493" height="2" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1622029864294" />
     <state x="277" y="57" key="SettingsEditor" timestamp="1621928582782">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -226,9 +220,9 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="478" y="147" width="579" height="530" key="find.popup/0.0.1536.824@0.0.1536.824" timestamp="1621928155806" />
-    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1621956349154">
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1622028985687">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1621956349154" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1622028985687" />
   </component>
 </project>
